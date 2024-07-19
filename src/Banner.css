@@ -1,0 +1,45 @@
+/* src/Banner.css */
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, rgba(227, 161, 75, 0.662), rgb(237, 133, 6));
+    padding: 10px;
+    border: 1px solid #ed8a0a;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    border-radius: 25px;
+  }
+   
+  
+  .banner .section {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .banner .section {
+    /* width: 30px; */
+    vertical-align: middle;
+  }
+  
+  .banner .section p {
+    display: inline;
+  }
+  
+  .countdown {
+    font-weight: bold;
+    color: #0a0a0a;
+  }
+  
+  @media (max-width: 768px) {
+    .banner {
+      flex-direction: column;
+      text-align: center;
+    }
+    
+    .banner .section {
+      margin-bottom: 10px;
+    }
+  }
+  
