@@ -22,5 +22,5 @@ To get started with this project, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/limited-time-offer.git
-   cd limited-time-offer
+   git clone https://github.com/veer127/Limited-Time-Offer.git
+   cd Limited-Time-Offer
