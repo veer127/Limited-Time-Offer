@@ -29,9 +29,9 @@ This is a simple web banner built with **HTML**, **CSS**, and **JavaScript** tha
 
 Preview:
 <img width="2878" height="278" alt="Screenshot 2025-10-22 at 8 29 11 AM" src="https://github.com/user-attachments/assets/cf318a05-1636-4a95-b4be-f86f76dfc3b7" />
-<p align="center">
-  <img src="path/to/your/image.png" alt="Limited Time Offer - Get 10% OFF with code EXAMSTART" width="100%">
-</p>
+
+<img width="1500" height="750" alt="Limited Time Offer Ends in 00:59:45 GET 10% OFF Use Code EXAMSTART" src="https://github.com/user-attachments/assets/your-actual-asset-id" />
+
 
 ---
 
