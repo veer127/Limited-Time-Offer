@@ -1,4 +1,4 @@
-⏰ Limited Time Offer Banner
+⏰ ## Limited Time Offer Banner
 
 This is a simple web banner built with **HTML**, **CSS**, and **JavaScript** that displays a **limited-time offer** with a **real-time countdown clock** ticking backwards. The banner is designed to be eye-catching and can be easily embedded into any website to create a sense of urgency.
 
@@ -27,8 +27,11 @@ This is a simple web banner built with **HTML**, **CSS**, and **JavaScript** tha
 
 ## 📸 Preview
 
-Preview available in Screenshot folder.
-<img width="2878" height="278" alt="Screenshot 2025-10-22 at 8 29 11 AM" src="https://github.com/user-attachments/assets/cf318a05-1636-4a95-b4be-f86f76dfc3b7" /># 
+Preview:
+<img width="2878" height="278" alt="Screenshot 2025-10-22 at 8 29 11 AM" src="https://github.com/user-attachments/assets/cf318a05-1636-4a95-b4be-f86f76dfc3b7" />
+<p align="center">
+  <img src="path/to/your/image.png" alt="Limited Time Offer - Get 10% OFF with code EXAMSTART" width="100%">
+</p>
 
 ---
 
